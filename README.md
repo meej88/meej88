@@ -1,26 +1,27 @@
-# Hello, I'm [Your Name] 👋
+# Hi there, I'm Abdulmajid 👋
 
-I'm a [IT engineering] based in [2023]. Welcome to my GitHub profile!
+I'm a passionate IT engineer based in Canada, Toronto. Welcome to my GitHub playground!
 
 ## About Me
 
-- 👯 I’m looking to collaborate on [Open Source Projects or Initiatives]
-- 🤔 I’m looking for help with [Specific Problem or Challenge]
+- 🔭 I’m currently working on building a full-stack web application for automating task management.
+- 🌱 I’m currently learning JDA ( NPOWER ) .
+- 🤔 I’m looking for help with optimizing database queries in large-scale applications.
 - 💬 Ask me about anything 
-- 📫 How to reach me: [abdulmajedo@gmail.com]
+- 📫 How to reach me: abdulmajedo@gmail.com
 
+### Portfolio Website
+My personal portfolio website showcases my projects and achievements.
 
-- ...
+- Repository: [Portfolio Website](https://github.com/meej88)
+- Tech Stack: HTML, python
 
-## Skills
-
-- Programming Languages: [Languages You're Proficient In]
-- Technologies: [Frameworks, Libraries, Tools]
-- ...
 
 ## Connect with Me
 
-- [LinkedIn][(Your LinkedIn Profile Link)](https://www.linkedin.com/in/abdulmajid-ba-teas-34155866/)
-- [Twitter] meej880
+Let's connect and learn together:
 
-Feel free to explore my repositories and get in touch!
+- [LinkedIn](https://www.linkedin.com/in/abdulmajid-ba-teas-34155866/))
+- [Twitter](https://twitter.com/meej880)
+
+Feel free to explore my repositories and get in touch! 🚀
