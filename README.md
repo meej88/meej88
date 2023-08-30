@@ -21,7 +21,7 @@ My personal portfolio website showcases my projects and achievements.
 
 Let's connect and learn together:
 
-- [LinkedIn](https://www.linkedin.com/in/abdulmajid-ba-teas-34155866/))
+- [LinkedIn](https://www.linkedin.com/in/abdulmajid-ba-teas-34155866/)
 - [Twitter](https://twitter.com/meej880)
 
 Feel free to explore my repositories and get in touch! 🚀
