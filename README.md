@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Abdulmajid
 
-https://github.com/M0nica/M0nica.git
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulmajid)](https://github.com/anuraghazra/github-readme-stats)
+
