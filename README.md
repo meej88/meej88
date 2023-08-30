@@ -14,7 +14,7 @@ I'm a passionate IT engineer based in Canada, Toronto. Welcome to my GitHub play
 My personal portfolio website showcases my projects and achievements.
 
 - Repository: [Portfolio Website](https://github.com/meej88)
-- Tech Stack: HTML, python
+- Tech Stack: SQL, python
 
 
 ## Connect with Me
