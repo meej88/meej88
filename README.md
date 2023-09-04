@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br>🔭 I’m currently working on building a full-stack web application for automating task management.<br>🌱 I’m currently learning JDA ( NPOWER ).<br>🤔 I’m looking for help with optimizing database queries in large-scale applications.<br>💬 Ask me about anything<br>📫 How to reach me: abdulmajedo@gmail.com<br>Portfolio Website<br>My personal portfolio website showcases my projects and achievements.<br><br>Repository: Portfolio Website<br>Tech Stack: SQL, python
+About Me<br>🔭 I’m currently working on building a full-stack web application for automating task management.<br>🌱 I’m currently learning JDA ( NPOWER ).<br>🤔 I’m looking for help with optimizing database queries in large-scale applications.<br>💬 Ask me about anything<br>📫 How to reach me: abdulmajedo@gmail.com<br>Portfolio Website<br>My personal portfolio website showcases my projects and achievements.<br>
 
 
 ## 🌐 Socials:
